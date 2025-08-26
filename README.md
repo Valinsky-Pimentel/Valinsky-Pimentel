@@ -1,6 +1,6 @@
 ## Hi there, I'm Val Pimentel 👋
 
-<h3 align="left">I'm an **Artificial Intelligence Student** and aspiring **Data Analyst**. My goal is to combine **data analytics with machine learning and AI** to transform raw information into actionable insights that drive decision-making.</h3>
+<h3 align="left">I'm an Artificial Intelligence Student and aspiring Data Analyst. My goal is to combine data analytics with machine learning and AI to transform raw information into actionable insights that drive decision-making.</h3>
 
 - 🔭 I’m currently working on **Python for data analysis and machine learning.**
 
