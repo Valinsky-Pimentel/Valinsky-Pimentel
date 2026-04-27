@@ -1,54 +1,67 @@
-## Hi there, I'm Val Pimentel 👋
+# Hi there, I'm Valeria Pimentel 👋
 
-I'm an Artificial Intelligence Student and aspiring Data Analyst. My goal is to combine data analytics with machine learning and AI to transform raw information into actionable insights that drive decision-making. I truly enjoy reading, exploring new ideas, and constantly learning something new—which is why I’m building my journey in AI and Data Analytics.  
+🎓 Artificial Intelligence Student  
+📊 Aspiring Data Analyst & Machine Learning Enthusiast  
+📍 CDMX, México  
 
----
-
-### 🧰 I am working on ...
-
-- 🔭 I’m currently working on **Python for data analysis and machine learning.**
-
-- 🌱 I’m currently learning **Power BI**
-
-- Key Python libraries:
-  - **NumPy & pandas** → data analysis and manipulation  
-  - **Matplotlib & Seaborn** → data visualization  
-  - **scikit-learn** → machine learning fundamentals  
+I’m passionate about transforming raw data into meaningful insights through analytics, machine learning, and AI solutions. I enjoy learning new technologies, solving problems, and building projects that create impact.
 
 ---
 
-### 💡 Tech Stack
+## 🚀 About Me
 
-#### 🤖 AI & Data Science
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="tensorflow" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="pytorch" />
-</p>
-
-#### ⚙️ Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="mysql" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="git" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="github" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="vscode" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="aws" />
-</p>
+- 🔭 Currently working on **Python for Data Analysis & Machine Learning**
+- 🌱 Learning **Power BI, SQL, and Advanced Analytics**
+- 📚 Interested in **Artificial Intelligence, Data Science, and Business Intelligence**
+- 💡 Always exploring new ideas and improving my technical skills
 
 ---
 
-### 💻 Connect with me
+## 🎯 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/valeria-pimentel-16006b279">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+### 📊 Data Science & Analytics
 
-<a href="mailto:valpimentel1019@gmmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
-</a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Databases & BI
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Current Goals
+
+- Build strong Data Analytics portfolio projects  
+- Master Machine Learning fundamentals  
+- Create dashboards in Power BI  
+- Gain internship opportunities in Data / AI fields
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valeria_Pimentel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-pimentel-16006b279)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valpimentel1019@gmail.com)
+
+---
+
+⭐ Always learning, building, and growing in AI + Data Science
